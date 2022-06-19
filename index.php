@@ -25,5 +25,8 @@ a:hover, a:active {
             <a href="sum_of_the_year.php"><font size="5">Sum of The Year</font></a></br></br>
             <a href="unit_of_activity.php"><font size="5">Unit of Activity</font></a></br></br></center>
 </div>
+<div id="footer">
+        <p><center> Copyright &copy; <?php echo date("Y")?> - L200190008 | L200190043</p></center>
+    </div>
 </body>
 </html>
